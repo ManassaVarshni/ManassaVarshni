@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ManassaVarshni
-- 👀 I’m interested in pursuing a career in AI ML.
-- 🌱 I’m currently doing my Masters in Data Science. 
-- 💞️ I’m looking to collaborate on real time projects to increase my skills.
-- 📫 Reach me via LinkedIn - https://www.linkedin.com/in/manassa-varshni-632b2b17b/
+Hi, I’m @ManassaVarshni. I’m interested in pursuing a career in AI ML. I’m currently doing my Masters in Data Science. 
+
+Reach me via LinkedIn - https://www.linkedin.com/in/manassa-varshni-632b2b17b/
 
 <!---
 ManassaVarshni/ManassaVarshni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
