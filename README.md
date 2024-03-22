@@ -1,4 +1,4 @@
-Hi, I’m @ManassaVarshni. I’m interested in pursuing a career in AI ML. I’m currently doing my Masters in Data Science. 
+Hi, I’m @ManassaVarshni. I am a Data Science Masters graduate working as a Systems Engineer at TCS (Cloud Storage Software Developer - IBM)
 
 Reach me via LinkedIn - https://www.linkedin.com/in/manassa-varshni-632b2b17b/
 
